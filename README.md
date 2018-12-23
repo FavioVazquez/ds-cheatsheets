@@ -234,7 +234,7 @@ From @afshinea:
 
 From @afshinea:
 
-- [VIP Unsupervised Learning (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Supervised%20Learning/cheatsheet-unsupervised-learning.pdf)
+- [VIP Unsupervised Learning (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Unsupervised%20Learning/cheatsheet-unsupervised-learning.pdf)
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Unsupervised%20Learning/img/cheatsheet-unsupervised-learning/cheatsheet-unsupervised-learning-1.png)
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Unsupervised%20Learning/img/cheatsheet-unsupervised-learning/cheatsheet-unsupervised-learning-2.png)
