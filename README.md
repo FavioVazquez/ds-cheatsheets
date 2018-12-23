@@ -270,9 +270,6 @@ From @afshinea:
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/keras.png)
 
-- [Keras Datacamp (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Deep_Learning/keras_datacamp.pdf)
-
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Deep_Learning/img/keras_datacamp-1.png)
 
 ## Python
 
