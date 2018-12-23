@@ -101,7 +101,7 @@ List of Data Science Cheatsheets to rule the world.
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/data-import.png)
 
 - [Data Transformation with Dplyr (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/data-transformation.pdf)
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/data-import.png)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/data-transformation.png)
 
 - [Apply Functions with purrr (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/purrr.pdf)
 
