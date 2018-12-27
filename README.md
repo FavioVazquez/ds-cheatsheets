@@ -372,6 +372,10 @@ From @afshinea:
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/shiny.png)
 
+- [Vim (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/Text_Editors/Vim/vim_cheat_sheet_for_programmers_print.pdf)
+
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/Text_Editors/Vim/vim_cheat_sheet_for_programmers_print.png)
+
 By @ml874
 
 - [Data Science Cheatsheet (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/data-science-cheatsheet.pdf)
