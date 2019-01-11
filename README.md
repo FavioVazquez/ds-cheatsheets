@@ -20,15 +20,15 @@ List of Data Science Cheatsheets to rule the world.
 
 # [Business Science](https://www.business-science.io/) 
 
-## [Business Science Problem Framework (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Business_Science/Business_Science_Problem_Framework.pdf)
+## [Business Science Problem Framework (PDF)](https://github.com/business-science/cheatsheets/blob/master/Business_Science_Problem_Framework.pdf)
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Business_Science/img/Business_Science_Problem_Framework.png)
 
-## [Data Science with Python Workflow (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Business_Science/Data_Science_With_Python_Workflow.pdf)
+## [Data Science with Python Workflow (PDF)](https://github.com/business-science/cheatsheets/blob/master/Data_Science_With_Python_Workflow.pdf)
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Business_Science/img/Data_Science_With_Python_Workflow.png)
 
-## [Data Science with R Workflow (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Business_Science/Data_Science_With_R_Workflow.pdf)
+## [Data Science with R Workflow (PDF)](https://github.com/business-science/cheatsheets/blob/master/Data_Science_With_R_Workflow.pdf)
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Business_Science/img/Data_Science_With_R_Workflow.png)
 
