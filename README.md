@@ -20,15 +20,15 @@ List of Data Science Cheatsheets to rule the world.
 
 # [Business Science](https://www.business-science.io/) 
 
-## [Business Science Problem Framework (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Business_Science/Business_Science_Problem_Framework.pdf)
+## [Business Science Problem Framework (PDF)](https://github.com/business-science/cheatsheets/blob/master/Business_Science_Problem_Framework.pdf)
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Business_Science/img/Business_Science_Problem_Framework.png)
 
-## [Data Science with Python Workflow (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Business_Science/Data_Science_With_Python_Workflow.pdf)
+## [Data Science with Python Workflow (PDF)](https://github.com/business-science/cheatsheets/blob/master/Data_Science_With_Python_Workflow.pdf)
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Business_Science/img/Data_Science_With_Python_Workflow.png)
 
-## [Data Science with R Workflow (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Business_Science/Data_Science_With_R_Workflow.pdf)
+## [Data Science with R Workflow (PDF)](https://github.com/business-science/cheatsheets/blob/master/Data_Science_With_R_Workflow.pdf)
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Business_Science/img/Data_Science_With_R_Workflow.png)
 
@@ -89,67 +89,67 @@ List of Data Science Cheatsheets to rule the world.
 
 ## RStudio
 
-- [R Studio IDE (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/rstudio-ide.pdf)
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/rstudio-ide.png)
+- [R Studio IDE (PDF)](https://github.com/rstudio/cheatsheets/blob/master/rstudio-ide.pdf)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/rstudio-ide.png)
 
-- [Base R (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/base-r.pdf)
+- [Base R (PDF)](https://github.com/rstudio/cheatsheets/blob/master/base-r.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/base-r.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/base-r.png)
 
-- [Data Import with readr (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/data-import.pdf)
+- [Data Import with readr (PDF)](https://github.com/rstudio/cheatsheets/blob/master/data-import.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/data-import.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/data-import.png)
 
-- [Data Transformation with Dplyr (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/data-transformation.pdf)
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/data-transformation.png)
+- [Data Transformation with Dplyr (PDF)](https://github.com/rstudio/cheatsheets/blob/master/data-transformation.pdf)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/data-transformation.png)
 
-- [Apply Functions with purrr (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/purrr.pdf)
+- [Apply Functions with purrr (PDF)](https://github.com/rstudio/cheatsheets/blob/master/purrr.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/purrr.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/purrr.png)
 
-- [Data transformation with data.table (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/datatable.pdf)
+- [Data transformation with data.table (PDF)](https://github.com/rstudio/cheatsheets/blob/master/datatable.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/datatable.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/datatable.png)
 
-- [Dates and Times with lubridate (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/lubridate.pdf)
+- [Dates and Times with lubridate (PDF)](https://github.com/rstudio/cheatsheets/blob/master/lubridate.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/lubridate.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/lubridate.png)
 
-- [Randomizr (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/randomizr.pdf)
+- [Randomizr (PDF)](https://github.com/rstudio/cheatsheets/blob/master/randomizr.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/randomizr.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/randomizr.png)
 
-- [Regular Expressions (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/regex.pdf)
+- [Regular Expressions (PDF)](https://github.com/rstudio/cheatsheets/blob/master/regex.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/regular-expressions.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/regular-expressions.png)
 
-- [Work with Strings with stringr (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/strings.pdf)
+- [Work with Strings with stringr (PDF)](https://github.com/rstudio/cheatsheets/blob/master/strings.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/strings.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/strings.png)
 
-- [Tidy Evaluation with rlang (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/tidyeval.pdf)
+- [Tidy Evaluation with rlang (PDF)](https://github.com/rstudio/cheatsheets/blob/master/tidyeval.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/tidyeval.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/tidyeval.png)
 
-- [Xplain (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/xplain.pdf)
+- [Xplain (PDF)](https://github.com/rstudio/cheatsheets/blob/master/xplain.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/xplain.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/xplain.png)
 
-- [Sintax Comparison (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/syntax.pdf)
+- [Sintax Comparison (PDF)](https://github.com/rstudio/cheatsheets/blob/master/syntax.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/syntax.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/syntax.png)
 
-- [Data and Variable Transformation with sjmisc (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/sjmisc.pdf)
+- [Data and Variable Transformation with sjmisc (PDF)](https://github.com/rstudio/cheatsheets/blob/master/sjmisc.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/sjmisc.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/sjmisc.png)
 
-- [R Markdown (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/rmarkdown-2.0.pdf)
+- [R Markdown (PDF)](https://github.com/rstudio/cheatsheets/blob/master/rmarkdown-2.0.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/rmarkdown-2.0.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/rmarkdown-2.0.png)
 
-- [Package Development with devtools (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/package-development.pdf)
+- [Package Development with devtools (PDF)](https://github.com/rstudio/cheatsheets/blob/master/package-development.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/package-development.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/package-development.png)
 
 
 # Math and Calculus
@@ -184,9 +184,9 @@ From @afshinea:
 
 ## R
 
-- [Sparklyr (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/sparklyr.pdf)
+- [Sparklyr (PDF)](https://github.com/rstudio/cheatsheets/blob/master/sparklyr.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/sparklyr.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/sparklyr.png)
 
 # Machine Learning
 
@@ -198,25 +198,25 @@ From @afshinea:
 
 ## R
 
-- [Machine Learning Modelling in R (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/Machine%20Learning%20Modelling%20in%20R.pdf)
+- [Machine Learning Modelling in R (PDF)](https://github.com/rstudio/cheatsheets/blob/master/Machine%20Learning%20Modelling%20in%20R.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/Machine%20Learning%20Modelling%20in%20R.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/Machine%20Learning%20Modelling%20in%20R.png)
 
-- [Caret (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/caret.pdf)
+- [Caret (PDF)](https://github.com/rstudio/cheatsheets/blob/master/caret.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/caret.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/caret.png)
 
-- [Estimatr (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/estimatr.pdf)
+- [Estimatr (PDF)](https://github.com/rstudio/cheatsheets/blob/master/estimatr.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/estimatr.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/estimatr.png)
 
-_ [H2O (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/h2o.pdf)
+_ [H2O (PDF)](https://github.com/rstudio/cheatsheets/blob/master/h2o.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/h2o.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/h2o.png)
 
-- [mlr (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/mlr.pdf)
+- [mlr (PDF)](https://github.com/rstudio/cheatsheets/blob/master/mlr.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/mlr.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/mlr.png)
 
 
 ## Supervised Learning
@@ -266,9 +266,9 @@ From @afshinea:
 
 ## R
 
-- [Keras RStudio (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/keras.pdf)
+- [Keras RStudio (PDF)](https://github.com/rstudio/cheatsheets/blob/master/keras.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/keras.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/keras.png)
 
 
 ## Python
@@ -342,35 +342,35 @@ From @afshinea:
 
 ## R
 
-- [Ggplot2 (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/data-visualization-2.1.pdf)
+- [Ggplot2 (PDF)](https://github.com/rstudio/cheatsheets/blob/master/data-visualization-2.1.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/data-visualization-2.1.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/data-visualization-2.1.png)
 
-- [Leaflet (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/leaflet.pdf)
+- [Leaflet (PDF)](https://github.com/rstudio/cheatsheets/blob/master/leaflet.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/leaflet.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/leaflet.png)
 
-- [Cartography (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/cartography.pdf)
+- [Cartography (PDF)](https://github.com/rstudio/cheatsheets/blob/master/cartography.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/cartography.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/cartography.png)
 
 - [Comprehensive Guide to Data Visualization in R](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Data_Visualization/Comprehensive%20Guide%20to%20Data%20Visualization_R.pdf)
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Data_Visualization/img/Comprehensive%20Guide%20to%20Data%20Visualization_R-1.png)
 
-- [Simple Features sf (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/sf.pdf)
+- [Simple Features sf (PDF)](https://github.com/rstudio/cheatsheets/blob/master/sf.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/sf.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/sf.png)
 
-- [survminer (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/survminer.pdf)
+- [survminer (PDF)](https://github.com/rstudio/cheatsheets/blob/master/survminer.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/survminer.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/survminer.png)
 
 # Data Science in General and Others
 
-- [Shiny (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/shiny.pdf)
+- [Shiny (PDF)](https://github.com/rstudio/cheatsheets/blob/master/shiny.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/shiny.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/shiny.png)
 
 - [Vim (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/Text_Editors/Vim/vim_cheat_sheet_for_programmers_print.pdf)
 

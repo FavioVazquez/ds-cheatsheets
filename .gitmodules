@@ -1,0 +1,8 @@
+[submodule "Business_Science/business-science-repo"]
+	path = Business_Science/business-science-repo
+	url = https://github.com/business-science/cheatsheets.git
+	branch = master
+[submodule "R/RStudio"]
+	path = R/RStudio
+	url = https://github.com/rstudio/cheatsheets.git
+	branch = master
