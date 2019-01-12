@@ -376,6 +376,10 @@ From @afshinea:
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/Text_Editors/Vim/vim_cheat_sheet_for_programmers_print.png)
 
+- [Emacs (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/Text_Editors/Emacs/How-to-learn-Emacs-v2-large.pdf)
+
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/Text_Editors/Emacs/How-to-learn-Emacs-v2-large.png)
+
 By @ml874
 
 - [Data Science Cheatsheet (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/data-science-cheatsheet.pdf)
