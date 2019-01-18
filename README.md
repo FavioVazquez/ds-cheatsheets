@@ -380,6 +380,12 @@ From @afshinea:
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/Text_Editors/Emacs/How-to-learn-Emacs-v2-large.png)
 
+- [Git - Atlassian's Cheatsheet (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/Git/atlassian-git-cheatsheet.pdf)
+
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/Git/img/Atlassian_git_cheatsheet_pg1.png)
+
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/Git/img/Atlassian_git_cheatsheet_pg2.png)
+
 By @ml874
 
 - [Data Science Cheatsheet (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/data-science-cheatsheet.pdf)
