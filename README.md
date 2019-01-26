@@ -154,7 +154,7 @@ List of Data Science Cheatsheets to rule the world.
 
 # Math and Calculus
 
-From @afshinea:
+From @afshinea, @stat110 and @wzchen:
 
 - [Refresher Algebra and Calculus (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/refresher-algebra-calculus.pdf)
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/refresher-algebra-calculus/refresher-algebra-calculus-1.png)
