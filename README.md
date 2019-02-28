@@ -154,7 +154,7 @@ List of Data Science Cheatsheets to rule the world.
 
 # Math and Calculus
 
-From @afshinea:
+From @afshinea, @stat110 and @wzchen:
 
 - [Refresher Algebra and Calculus (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/refresher-algebra-calculus.pdf)
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/refresher-algebra-calculus/refresher-algebra-calculus-1.png)
@@ -164,6 +164,18 @@ From @afshinea:
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/refresher-probabilities-statistics/refresher-probabilities-statistics-1.png)
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/refresher-probabilities-statistics/refresher-probabilities-statistics-2.png)
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/refresher-probabilities-statistics/refresher-probabilities-statistics-3.png)
+
+- [Fundamentals of Probabilities (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/Probability%20Cheatsheet.pdf)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/1.PNG)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/2.PNG)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/3.PNG)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/4.PNG)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/5.PNG)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/6.PNG)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/7.PNG)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/8.PNG)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/9.PNG)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/10.PNG)
 
 # Big Data
 
