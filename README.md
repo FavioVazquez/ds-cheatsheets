@@ -236,6 +236,9 @@ _ [H2O (PDF)](https://github.com/rstudio/cheatsheets/blob/master/h2o.pdf)
 
 
 ## Supervised Learning
+- [Regression  (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Supervised%20Learning/bsu-regression.pdf)
+
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Supervised%20Learning/img/bsu-regression-cheatsheet.png)
 
 From @afshinea:
 
@@ -247,6 +250,10 @@ From @afshinea:
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Supervised%20Learning/img/cheatsheet-supervised-learning/cheatsheet-supervised-learning-4.png)
 
 ## Unsupervised Learning
+- [Segmentation and Clustering (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Unsupervised%20Learning/segmentation_clustering.pdf)
+
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Unsupervised%20Learning/img/BSU-segmentation-clustering.png)
+
 
 From @afshinea:
 
