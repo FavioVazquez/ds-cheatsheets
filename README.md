@@ -18,7 +18,7 @@ List of Data Science Cheatsheets to rule the world.
 ----------------------------------------
 
 
-# [Business Science](https://www.business-science.io/) 
+# [Business Science](https://www.business-science.io/)
 
 ## [Business Science Problem Framework (PDF)](https://github.com/business-science/cheatsheets/blob/master/Business_Science_Problem_Framework.pdf)
 
@@ -65,6 +65,10 @@ List of Data Science Cheatsheets to rule the world.
 - [Intermediate Python (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Dataquest/Intermediate-Python-Cheat-Sheet.pdf)
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Dataquest/img/Intermediate-Python-Cheat-Sheet-1.png)
+
+- [Python REGEX (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Dataquest/python-regular-expressions-cheat-sheet.pdf)
+
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Dataquest/img/dataquest-python-regex.png)
 
 ## Others
 
@@ -232,8 +236,11 @@ _ [H2O (PDF)](https://github.com/rstudio/cheatsheets/blob/master/h2o.pdf)
 
 
 ## Supervised Learning
+- [Regression  (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Supervised%20Learning/bsu-regression.pdf)
 
-From @afshinea: 
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Supervised%20Learning/img/bsu-regression-cheatsheet.png)
+
+From @afshinea:
 
 - [VIP Supervised Learning (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Supervised%20Learning/cheatsheet-supervised-learning.pdf)
 
@@ -243,6 +250,10 @@ From @afshinea:
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Supervised%20Learning/img/cheatsheet-supervised-learning/cheatsheet-supervised-learning-4.png)
 
 ## Unsupervised Learning
+- [Segmentation and Clustering (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Unsupervised%20Learning/segmentation_clustering.pdf)
+
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Unsupervised%20Learning/img/BSU-segmentation-clustering.png)
+
 
 From @afshinea:
 
@@ -289,7 +300,7 @@ From @afshinea:
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/img/keras-1.png)
 
-From @afshinea: 
+From @afshinea:
 
 - [Deep Learning Basics (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Deep_Learning/cheatsheet-deep-learning.pdf)
 
@@ -434,4 +445,3 @@ By @ml874
 # Contributors:
 
 ## [Favio Vázquez](https://github.com/FavioVazquez)
-
