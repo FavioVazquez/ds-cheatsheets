@@ -411,7 +411,7 @@ From @afshinea:
 
 - [DVC (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/DVC/DVC_cheatsheet.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/Git/DVC/img/DVC_cheatsheet.png)
+![](https://raw.githubusercontent.com/FavioVazquez/ds-cheatsheets/master/General/DVC/img/DVC_cheatsheet.png)
 
 - [BASH (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/BASH/bash_cheat_sheet.pdf)
 
