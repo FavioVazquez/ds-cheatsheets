@@ -56,7 +56,7 @@ List of Data Science Cheatsheets to rule the world.
 
 ## [Python Crash Course](https://github.com/ehmatthes/pcc)
 
-- [Begginers Python Cheat Sheet (Long PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Python_Crash_Course/Begginers-Python-Cheat-Sheet.pdf)
+- [Beginners Python Cheat Sheet (Long PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Python_Crash_Course/Begginers-Python-Cheat-Sheet.pdf)
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Python_Crash_Course/Begginers-Python-Cheat-Sheet.png)
 
@@ -273,7 +273,7 @@ From @afshinea:
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Tricks/img/cheatsheet-machine-learning-tips-and-tricks/cheatsheet-machine-learning-tips-and-tricks-2.png)
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Tricks/img/cheatsheet-machine-learning-tips-and-tricks/cheatsheet-machine-learning-tips-and-tricks-3.png)
 
-## Chossing the right model
+## Choosing the right model
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Choosing_Model/img/microsoft-machine-learning-algorithm-cheat-sheet-v7-1.png)
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Choosing_Model/img/ml_map_scikit_learn.png)
