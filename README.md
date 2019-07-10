@@ -56,9 +56,9 @@ List of Data Science Cheatsheets to rule the world.
 
 ## [Python Crash Course](https://github.com/ehmatthes/pcc)
 
-- [Beginners Python Cheat Sheet (Long PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Python_Crash_Course/Begginers-Python-Cheat-Sheet.pdf)
+- [Beginners Python Cheat Sheet (Long PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Python_Crash_Course/Beginners-Python-Cheat-Sheet.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Python_Crash_Course/Begginers-Python-Cheat-Sheet.png)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Python_Crash_Course/Beginners-Python-Cheat-Sheet.png)
 
 ## Dataquest
 
