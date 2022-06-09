@@ -89,8 +89,10 @@ List of Data Science Cheatsheets to rule the world.
     - [Git - Atlassian's Cheatsheet](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/Git/atlassian-git-cheatsheet.pdf)
     - [DVC](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/DVC/DVC_cheatsheet.pdf)
     - [BASH](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/BASH/bash_cheat_sheet.pdf)
+    - [Engineering Practices for Data Scientists Cheatsheet](/General/Engineering_Practices/engineering-practices-cheatsheet.pdf)
 
 - [Data Science Cheatsheet Takeaway](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/data-science-cheatsheet.pdf)
+
 ----------------------------------------
 
 
@@ -504,6 +506,10 @@ From @afshinea:
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/BASH/img/Linux-bash-cheatsheet-pg6.png)
 
 By @ml874
+
+- [Engineering Practices for Data Scientists (PDF)](/General/Engineering_Practices/engineering-practices-cheatsheet.pdf)
+
+![](/General/Engineering_Practices/img/engineering-practices-cheatsheet.png)
 
 - [Data Science Cheatsheet (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/data-science-cheatsheet.pdf)
 
