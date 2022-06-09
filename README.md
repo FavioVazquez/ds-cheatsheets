@@ -518,6 +518,10 @@ By @ml874
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/img/data-science-cheatsheet/data-science-cheatsheet-09.png)
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/img/data-science-cheatsheet/data-science-cheatsheet-10.png)
 
+- [Engineering Practices for Data Scientists (PDF)](/General/Engineering_Practices/engineering-practices-cheatsheet.pdf)
+
+![](/General/Engineering_Practices/img/engineering-practices-cheatsheet.png)
+
 
 # Contributors:
 
