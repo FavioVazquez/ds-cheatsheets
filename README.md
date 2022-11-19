@@ -76,10 +76,12 @@ List of Data Science Cheatsheets to rule the world.
     - [Seaborn](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/seaborn.pdf)
     - [Bokeh](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/bokeh.pdf)
     - [Comprehensive Guide to Data Visualization in Python](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Data_Visualization/img/data-visualisation-infographics-python.jpg)
+    
     - [Ggplot2](https://github.com/rstudio/cheatsheets/blob/master/data-visualization-2.1.pdf)
     - [Leaflet](https://github.com/rstudio/cheatsheets/blob/master/leaflet.pdf)
     - [Cartography](https://github.com/rstudio/cheatsheets/blob/master/cartography.pdf)
     - [Comprehensive Guide to Data Visualization in R](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Data_Visualization/Comprehensive%20Guide%20to%20Data%20Visualization_R.pdf)
+    - [Core principles of visualization]()
     - [Simple Features sf](https://github.com/rstudio/cheatsheets/blob/master/sf.pdf)
     - [survminer](https://github.com/rstudio/cheatsheets/blob/master/survminer.pdf)
 - [Data Science in General and Others](https://github.com/FavioVazquez/ds-cheatsheets#data-science-in-general-and-others)
